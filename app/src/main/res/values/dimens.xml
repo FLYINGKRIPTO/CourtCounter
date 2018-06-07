@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TeamMarginTop">16dp</dimen>
+    <dimen name="teamPadding">4dp</dimen>
+    <dimen name="LargeTextSize">32sp</dimen>
+    <dimen name="ExtraLargeText">50sp</dimen>
+    <dimen name="ButtonPadding">18dp</dimen>
+    <dimen name="smallText">14sp</dimen>
+    <dimen name="mediumTextSize">20sp</dimen>
+    <dimen name="Row1ButtonMarginTop">18dp</dimen>
+    <dimen name="ButtomMarginTop">10dp</dimen>
+    <dimen name="column1MarginRight">24dp</dimen>
+    <dimen name="column1MarginLEft">29dp</dimen>
+    <dimen name="resetButtonMarginBottom">7dp</dimen>
+    <dimen name="ResetButtonMarginTop">400dp</dimen>
+    <dimen name="LinearLayoutMarginTop">22dp</dimen>
+    <dimen name="LinearLayoutHeight">400dp</dimen>
+    <dimen name="LinearLayoutWidth">0dp</dimen>
+    <dimen name="LineWidth">2dp</dimen>
+</resources>

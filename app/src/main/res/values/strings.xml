@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Court Counter</string>
+    <string name="app_name">Score Keeper</string>
     <string name="teamA">Team A</string>
     <string name="points_teamA">0</string>
     <string name="three_points">+3 Points</string>
@@ -8,4 +8,6 @@
     <string name="teamB">Team B</string>
     <string name="points_teamB">0</string>
     <string name="reset_button">RESET</string>
+    <string name="reset_scores">RESET SCORE</string>
+    <string name="about">ABOUT</string>
 </resources>
